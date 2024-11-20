@@ -6,15 +6,15 @@ _Arvaneh Jamil_
 
 ### Introspection
 
-_Describe the challenges you faced and what you learned_
+_It was difficult to think of coding in a different way but it was interesting to learn how to do graphics in coding because it was different from what we have done before._
 
 ### Dataset
 
-_Which dataset did you choose for the classification task?_
+_SMS Spam Collection_
 
 ### Resources
 
-_List the people and resources you used to complete the project_
+_VJ, Max Petite_
 
 
 ### *DO NOT EDIT BELOW THIS LINE*
